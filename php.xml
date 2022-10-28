@@ -7,7 +7,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="8.1.12">
+        <phpinfo binary_type="PHP" php_cgi="C:\PHP\php-cgi.exe" php_cli="C:\PHP\php.exe" path_separator=";" version="8.1.2">
           <additional_php_ini />
           <configuration_file>C:\PHP\php.ini</configuration_file>
           <configuration_options>
@@ -24,7 +24,6 @@
             <extension name="bcmath" />
             <extension name="calendar" />
             <extension name="ctype" />
-            <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
             <extension name="filter" />
@@ -32,9 +31,8 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
-            <extension name="mbstring" />
+            <extension name="mysqli" />
             <extension name="mysqlnd" />
-            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
